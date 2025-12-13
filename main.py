@@ -1,6 +1,5 @@
-import kagglehub
+import pandas as pd
 
-# Download latest version
-path = kagglehub.dataset_download("yasserh/titanic-dataset")
-
-print("Path to dataset files:", path)
+#Titanic_Data = pd.read_csv(r"c:\Users\rayan\Desktop\AI Projects\Titanic Project\Titanic_Data.csv")
+Titanic_Data = pd.read_csv(r"c:\Users\rayan\Desktop\AI Projects\Titanic Project\Titanic_Data.csv")
+print(Titanic_Data.head())
