@@ -1,2 +1,1 @@
-**Titanic Survivor Supervised Learning Prediction Model
-**
+# Titanic Survivor Supervised Learning Prediction Model
