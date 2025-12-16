@@ -10,6 +10,6 @@
 #### 2. ML pipelines: for each classifier, we built a different pipleline
 #### 3. Train, Predict, Evaluate, and print classsification report for both models
 #### 4. Feature importance for Random Forest
-#### 5. cross validation for both models
+#### 5. Cross Validation for both models
 #### 6. Finetuning hyperparameters using GridSearchCV for Random Forest model
-#### 7. train, predict, evaluate the finetuned model
+#### 7. Train, predict, evaluate the finetuned model
