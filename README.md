@@ -6,10 +6,10 @@
 
 ## Stages: 
 
-#### Preprocessing data: fixing missing data and encoding string into numerical values, feature engineering
-#### ML pipelines: for each classifier, we built a different pipleline
-#### Train, Predict, Evaluate, and print classsification report for both models
-#### Feature importance for Random Forest
-#### cross validation for both models
-#### Finetuning hyperparameters using GridSearchCV for Random Forest model
-#### train, predict, evaluate the finetuned model
+#### 1. Preprocessing data: fixing missing data and encoding string into numerical values, feature engineering
+#### 2. ML pipelines: for each classifier, we built a different pipleline
+#### 3. Train, Predict, Evaluate, and print classsification report for both models
+#### 4. Feature importance for Random Forest
+#### 5. cross validation for both models
+#### 6. Finetuning hyperparameters using GridSearchCV for Random Forest model
+#### 7. train, predict, evaluate the finetuned model
